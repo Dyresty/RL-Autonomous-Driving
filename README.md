@@ -8,7 +8,7 @@ There are two saved models in this repository. One with 100k timesteps and one w
 
 ## Image with the Racecar Game
 <div align="center">
-    <img src="racecar.png" height=400, width=250>
+    <img src="racecar.png">
 </div>
 
 ## Try the game
